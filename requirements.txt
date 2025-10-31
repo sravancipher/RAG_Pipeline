@@ -8,3 +8,6 @@ sentence-transformers
 faiss-cpu
 chromadb
 langchain-text-splitters
+langchain-groq
+python-dotenv
+perplexityai
